@@ -19,4 +19,3 @@
 [![Arch_Linux Badge](https://img.shields.io/badge/Arch_Linux-black?style=flat&logo=arch-linux&link=https://archlinux.org)](https://archlinux.org)
 [![Cent%20OS Badge](https://img.shields.io/badge/CentOS-black?style=flat&logo=CentOS&link=https://www.centos.org)](https://www.centos.org)
 [![freebsd Badge](https://img.shields.io/badge/FreeBSD-black?style=flat&logo=FreeBSD&link=https://www.freebsd.org)](https://www.freebsd.org)
-
