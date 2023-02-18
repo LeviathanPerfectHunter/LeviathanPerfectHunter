@@ -8,6 +8,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-LeviathanPerfectHunter-black?style=flat&logo=facebook&link=https://facebook.com/LeviathanPerfectHunter)](https://facebook.com/LeviathanPerfectHunter)
 [![Telegram Badge](https://img.shields.io/badge/-Leviathan1337-black?style=flat&logo=telegram&link=https://telegram.me/LeviathanPerfectHunter)](https://telegram.me/haxorworld)
 [![Whatsapp Badge](https://img.shields.io/badge/-LeviathanPerfectHunter-black?style=flat&logo=whatsapp&link=https://wa.me/6282123132200)](https://wa.me/6282123132200)
+[![Instagram Badge](https://img.shields.io/badge/-LeviathanPerfectHunter-black?style=flat&logo=instagram&link=https://instagram.com/alivos7)](https://instagram.com/alivos7)
 ![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=fff&style=plastic)
 ![Hacker Noon Badge](https://img.shields.io/badge/Hacker%20Noon-00FE00?logo=hackernoon&logoColor=000&style=plastic)
 ![Hack The Box Badge](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=000&style=plastic)
