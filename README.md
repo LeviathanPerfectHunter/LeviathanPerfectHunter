@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/NZgFFtG/Leviathan-Perfect-Hunter.png" height='600' width='1000' alt="Leviathan1337 profile">
+<img src="https://i.ibb.co/NZgFFtG/Leviathan-Perfect-Hunter.png" height='550' width='1000' alt="Leviathan1337 profile">
 
 <img title="Leviathan1337" src="https://komarev.com/ghpvc/?username=Leviathan1337&text_color=FF00FF&label=Views&color=000000&text_color=00FF00&bg_color=000000&style=flat"></a>
 [![Gmail Badge](https://img.shields.io/badge/-elisathaliaaurora@gmail.com-black?style=flat&logo=Gmail&link=mailto:elisathaliaaurora@gmail.com)](mailto:elisathaliaaurora@gmail.com) 
