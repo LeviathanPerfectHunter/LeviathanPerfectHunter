@@ -7,7 +7,7 @@
 
 <img title="Leviathan1337" src="https://komarev.com/ghpvc/?username=Leviathan1337&text_color=FF00FF&label=Views&color=000000&text_color=00FF00&bg_color=000000&style=flat"></a>
 [![Gmail Badge](https://img.shields.io/badge/-elisathaliaaurora@gmail.com-black?style=flat&logo=Gmail&link=mailto:elisathaliaaurora@gmail.com)](mailto:elisathaliaaurora@gmail.com) 
-[![Github Badge](https://img.shields.io/badge/-Leviathan1337-black?style=flat&logo=github&link=https://github.com/Leviathan1337)](https://www.github.com/Leviathan1337) 
+[![Github Badge](https://img.shields.io/badge/-Leviathan1337-black?style=flat&logo=github&link=https://github.com/LeviathanPerfectHunter)](https://www.github.com/LeviathanPerfectHunter) 
 [![Twitter Badge](https://img.shields.io/badge/-LeviathanPerfectHunter-black?style=flat&logo=twitter&link=https://twitter.com/LeviathanPerfectHunter)](https://twitter.com/LeviathanPerfectHunter) 
 [![Facebook Badge](https://img.shields.io/badge/-LeviathanPerfectHunter-black?style=flat&logo=facebook&link=https://facebook.com/LeviathanPerfectHunter)](https://facebook.com/LeviathanPerfectHunter)
 [![Telegram Badge](https://img.shields.io/badge/-Leviathan1337-black?style=flat&logo=telegram&link=https://telegram.me/LeviathanPerfectHunter)](https://telegram.me/haxorworld)
